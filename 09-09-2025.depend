@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1757616618 source:c:\users\pc-11\desktop\09-09-2025\clsgestorproducto.cpp
+	"ClsGestorProducto.h"
+	<iostream>
+	<cstring>
+	<string>
+	<cstdio>
+
+1757616599 c:\users\pc-11\desktop\09-09-2025\clsgestorproducto.h
+	"Producto.h"
+	<string>
+
+1757607746 c:\users\pc-11\desktop\09-09-2025\producto.h
+	<iostream>
+	<string>
+
+1757607029 source:c:\users\pc-11\desktop\09-09-2025\main.cpp
+	<iostream>
+	"Menu.h"
+
+1757607029 c:\users\pc-11\desktop\09-09-2025\menu.h
+	"ClsGestorProducto.h"
+	"Producto.h"
+
+1757607029 source:c:\users\pc-11\desktop\09-09-2025\producto.cpp
+	"Producto.h"
+	<iostream>
+	<cstring>
+	<string>
+
+1757616599 source:c:\users\pc-11\desktop\09-09-2025\menu.cpp
+	<iostream>
+	"Menu.h"
+	"ClsGestorProducto.h"
+	"Producto.h"
+
+1758416767 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\clsgestorproducto.cpp
+	"ClsGestorProducto.h"
+	<iostream>
+	<cstring>
+	<string>
+	<cstdio>
+
+1758416767 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\clsgestorproducto.h
+	"Producto.h"
+	<string>
+
+1758416767 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\producto.h
+	<iostream>
+	<string>
+
+1758416767 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\main.cpp
+
+1758416767 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\menu.cpp
+	<iostream>
+	"Menu.h"
+	"ClsGestorProducto.h"
+	"Producto.h"
+
+1758416767 c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\menu.h
+	"ClsGestorProducto.h"
+	"Producto.h"
+
+1758416767 source:c:\users\admin\onedrive\escritorio\utn frgp\programacion ii\09-09-2025\producto.cpp
+	"Producto.h"
+	<iostream>
+	<cstring>
+	<string>
+
